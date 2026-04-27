@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.ec79e8d9.js",
-    "index.html": "/index.html",
-    "main.ec79e8d9.js.map": "/static/js/main.ec79e8d9.js.map"
+    "main.css": "/Smart-Society-Management-System/static/css/main.31d6cfe0.css",
+    "main.js": "/Smart-Society-Management-System/static/js/main.562d1566.js",
+    "index.html": "/Smart-Society-Management-System/index.html",
+    "main.562d1566.js.map": "/Smart-Society-Management-System/static/js/main.562d1566.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ec79e8d9.js"
+    "static/js/main.562d1566.js"
   ]
 }

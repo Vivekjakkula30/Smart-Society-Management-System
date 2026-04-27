@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vivekjakkula30.github.io/Smart-Society-Management-System",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -45,4 +46,5 @@
   "devDependencies": {
     "baseline-browser-mapping": "^2.10.0"
   }
+  
 }
